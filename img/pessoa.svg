@@ -1,0 +1,15 @@
+<svg id="Grupo_2" data-name="Grupo 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="341.454" height="408.865" viewBox="0 0 341.454 408.865">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="-0.926" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2934f8"/>
+      <stop offset="1" stop-color="#0a95dd"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_1" data-name="Retângulo 1" width="341.454" height="408.865" fill="url(#linear-gradient)"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1" data-name="Grupo 1" clip-path="url(#clip-path)">
+    <path id="Caminho_1" data-name="Caminho 1" d="M63.138,408.865c-4.65-.969-9.376-1.67-13.938-2.952C20.006,397.706,1.554,375.245.267,344.662c-1.33-31.594,2.146-62.731,14.174-92.314,7.766-19.1,19.046-35.621,37.951-45.709a74.852,74.852,0,0,1,37.252-8.925c4.126.086,8.471,2.167,12.237,4.211,6.069,3.294,11.7,7.388,17.589,11.019q51.39,31.668,102.763-.077c4.754-2.94,9.606-5.777,14.072-9.116,8.192-6.125,17.205-6.894,26.94-5.466,26.566,3.9,45.331,18.421,57.981,41.589,11.294,20.685,16.379,43.148,18.641,66.3A328.815,328.815,0,0,1,341.432,342c-.429,35.663-24.955,62.2-60.494,66.113a15.615,15.615,0,0,0-2.6.748Z" fill="url(#linear-gradient)"/>
+    <path id="Caminho_2" data-name="Caminho 2" d="M168.046,197c-54.978-.368-98.906-44.505-98.479-98.948A98.636,98.636,0,0,1,168.592,0c53.538,0,98.563,44.353,98.382,98.794-.181,54.621-45.409,98.71-98.928,98.206" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
