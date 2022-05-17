@@ -20,31 +20,31 @@
 
     <!-- Menu -->
     <header class="topo">
-        <h1 class="topo-nome">Matheus Bastos</h1>
+        <h1 class="topo-nome fadeInDown" data-anime="200">Matheus Bastos</h1>
         <nav>
             <ul class="topo-menu">
-                <li><a href="#experiencia">Experiência</a></li>
-                <li><a href="#formacao">Formação</a></li>
-                <li><a href="#rodape">Contato</a></li>
+                <li class="fadeInDown" data-anime="200"><a href="#experiencia">Experiência</a></li>
+                <li class="fadeInDown" data-anime="200"><a href="#formacao">Formação</a></li>
+                <li class="fadeInDown" data-anime="200"><a href="#rodape">Contato</a></li>
             </ul>
         </nav>
     </header>
 
     <!-- Introdução -->
     <main class="introducao">
-        <img src="img/matheus.jpg" alt="">
+        <img class="fadeInDown" data-anime="400" src="img/matheus.jpg" alt="">
         <div>
-            <h1>Desenvolvedor <br>Front End & <br>UX/UI Designer</h1>
-            <p>Localizado no Espírito Santo</p>
+            <h1 class="fadeInDown" data-anime="600">Desenvolvedor <br>Front End & <br>UX/UI Designer</h1>
+            <p class="fadeInDown" data-anime="800">Localizado no Espírito Santo</p>
         </div>
     </main>
 
     <!-- Experiência -->
     <section class="experiencia" id="experiencia">
-        <h2 class="subtitulo">Experiência</h2>
+        <h2 class="subtitulo" data-anime="1100">Experiência</h2>
         <div>
-            <p class="experiencia-texto">Desenvolvedor <strong>front-end</strong> & <strong>UX/UI Design</strong> motivado, com 5 nos anos de experiência progressiva em setor de <strong>Marketing</strong> e <strong>T.I.</strong> Oferecendo conhecimentos em <strong>criação</strong>, <strong>designer</strong>, <strong>anúncios no Google ADS</strong> e desenvolvimento com aptidão em programação. Energético, independente e comunicativo, capaz de navegar por situações de alto estresse e atingir os objetivos pontualmente.</p>
-            <div class="empresa">
+            <p class="experiencia-texto fadeInDown" data-anime="900">Desenvolvedor <strong>front-end</strong> & <strong>UX/UI Design</strong> motivado, com 5 nos anos de experiência progressiva em setor de <strong>Marketing</strong> e <strong>T.I.</strong> Oferecendo conhecimentos em <strong>criação</strong>, <strong>designer</strong>, <strong>anúncios no Google ADS</strong> e desenvolvimento com aptidão em programação. Energético, independente e comunicativo, capaz de navegar por situações de alto estresse e atingir os objetivos pontualmente.</p>
+            <div class="empresa fadeInDown" data-anime="1300">
                 <span class="empresa-ano">2021-Atualmente</span>
                 <h3 class="empresa-titulo">Actiz Optimizers</h3>
                 <span class="empresa-titulo">Analista de Marketing</span>
@@ -149,6 +149,10 @@
             <p class="rodape-copy">Matheus Bastos. Alguns direitos reservados.</p>
         </div>
     </footer>
+
+    <!-- Animação -->
+    <script src="js/simple-anime-master/dist/simple-anime.js"></script>
+    <script>new window.SimpleAnime();</script>
 
 </body>
 
